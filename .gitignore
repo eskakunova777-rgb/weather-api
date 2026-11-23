@@ -1,0 +1,10 @@
+.env
+__pycache__/
+venv/
+.venv/
+weather_cache.json
+tekst_dlya_sdachi.txt
+urok_VPd03.txt
+skrinshoty/_originaly/
+.DS_Store
+.vscode/
